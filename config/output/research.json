@@ -1,0 +1,27 @@
+{
+  "opportunity_id": 1,
+  "sources": [],
+  "data_hash": "fefcb9a816a38427",
+  "provider": "research_agent",
+  "source_count": 0,
+  "created_at": "2026-01-01T00:00:00Z",
+  "primary_keyword": "best CRM for textile manufacturers",
+  "intent": "commercial",
+  "content_gaps": [
+    "What are the best best CRM for textile manufacturers options on the market?",
+    "How do the top best CRM for textile manufacturers compare on price and features?",
+    "What should I look for when buying best CRM for textile manufacturers?"
+  ],
+  "differentiation_strategy": "Compare across key evaluation criteria: price, features, usability, integration",
+  "page_type_recommendation": "comparison-guide",
+  "aeo_geo_requirements": [],
+  "schema_markup_needs": [
+    "Include comparison table with schema.org Table markup",
+    "Add FAQ schema for buyer questions",
+    "Structure product signals with JSON-LD"
+  ],
+  "competing_analysis": [],
+  "questions_answered": [],
+  "audience_profile": "buyers evaluating options",
+  "completion_status": "complete"
+}

@@ -1,0 +1,267 @@
+[
+  {
+    "block_type": null,
+    "block_position": 23,
+    "keyword": "muze",
+    "position": 23,
+    "prev_pos": 23,
+    "volume": 720,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://www.muzecmo.com/",
+    "difficulty": 10,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 100,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "knowledge_graph",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 50,
+    "keyword": "cpa ads",
+    "position": 50,
+    "prev_pos": null,
+    "volume": 320,
+    "cpc": 26.36,
+    "competition": 0.19,
+    "url": "https://www.muzecmo.com/glossary/cpa/",
+    "difficulty": 38,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 79,
+    "keyword": "cpa definition marketing",
+    "position": 78,
+    "prev_pos": null,
+    "volume": 390,
+    "cpc": 0,
+    "competition": 0.01,
+    "url": "https://www.muzecmo.com/glossary/cpa/",
+    "difficulty": 30,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 36,
+    "keyword": "mozze",
+    "position": 36,
+    "prev_pos": 36,
+    "volume": 140,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://www.muzecmo.com/",
+    "difficulty": 5,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "images",
+      "sge"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 45,
+    "keyword": "muset",
+    "position": 43,
+    "prev_pos": 43,
+    "volume": 260,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://www.muzecmo.com/",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "images",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 52,
+    "keyword": "muzei",
+    "position": 50,
+    "prev_pos": 50,
+    "volume": 170,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://www.muzecmo.com/",
+    "difficulty": 17,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "sge",
+      "related_searches",
+      "image_in_block"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 82,
+    "keyword": "negative keyword",
+    "position": 77,
+    "prev_pos": null,
+    "volume": 390,
+    "cpc": 14.83,
+    "competition": 0.05,
+    "url": "https://www.muzecmo.com/glossary/negative-keywords/",
+    "difficulty": 31,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 82,
+    "keyword": "negative keywords",
+    "position": 81,
+    "prev_pos": null,
+    "volume": 390,
+    "cpc": 14.83,
+    "competition": 0.05,
+    "url": "https://www.muzecmo.com/glossary/negative-keywords/",
+    "difficulty": 28,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 54,
+    "keyword": "what are negative keywords",
+    "position": 53,
+    "prev_pos": null,
+    "volume": 260,
+    "cpc": 0,
+    "competition": 0.03,
+    "url": "https://www.muzecmo.com/glossary/negative-keywords/",
+    "difficulty": 28,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 61,
+    "keyword": "what is cpa advertising",
+    "position": 61,
+    "prev_pos": null,
+    "volume": 40,
+    "cpc": 0,
+    "competition": 0.06,
+    "url": "https://www.muzecmo.com/glossary/cpa/",
+    "difficulty": 35,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  }
+]

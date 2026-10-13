@@ -1,0 +1,49 @@
+{
+  "primary_keyword": "meta ads mcp",
+  "intent": "informational",
+  "sub_questions": [
+    {
+      "id": "sq_1",
+      "question": "What is Model Context Protocol (MCP) and how does it apply to Meta Ads API integration?",
+      "intent": "informational",
+      "answered": true
+    },
+    {
+      "id": "sq_2",
+      "question": "What existing MCP servers or tools enable Meta Ads data access and automation?",
+      "intent": "informational",
+      "answered": false
+    },
+    {
+      "id": "sq_3",
+      "question": "How can marketers or developers use MCP to connect Meta Ads insights with AI assistants or agents?",
+      "intent": "informational",
+      "answered": true
+    },
+    {
+      "id": "sq_4",
+      "question": "What are the authentication and setup steps required for Meta Ads MCP connections?",
+      "intent": "informational",
+      "answered": true
+    },
+    {
+      "id": "sq_5",
+      "question": "What are the limitations or advantages of MCP versus direct Meta Ads API usage?",
+      "intent": "informational",
+      "answered": true
+    }
+  ],
+  "target_audience": "Developers, marketing technologists, and AI engineers looking to integrate Meta Ads data with AI agents via Model Context Protocol",
+  "content_gaps": [
+    "Official Meta-endorsed MCP integration guides",
+    "Beginner-friendly step-by-step setup tutorials",
+    "Performance comparisons between MCP and native API approaches"
+  ],
+  "competing_pages": [
+    "https://blend-ai.com/mcp/platforms/meta-ads-mcp",
+    "https://adkit.so/features/ads-mcp/meta",
+    "https://www.markifact.com/meta-ads-mcp",
+    "https://soku.ai/blog/meta-official-mcp-ai-ad-teams",
+    "https://pipeboard.co/"
+  ]
+}

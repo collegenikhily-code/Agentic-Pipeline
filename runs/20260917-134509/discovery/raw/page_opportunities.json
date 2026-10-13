@@ -1,0 +1,504 @@
+[
+  {
+    "opportunity_id": "opp-facebook-business-manager-3aa950f1",
+    "primary_keyword": "facebook business manager",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 18100,
+    "difficulty": 96.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/facebook-busines-manager"
+    ],
+    "questions": [
+      "how to create facebook business manager",
+      "how to create a business manager in facebook",
+      "how to create a business manager on facebook",
+      "how to create a facebook business manager account",
+      "how do i create a business manager account on facebook",
+      "how to create business manager account in facebook",
+      "how to create a business manager account in facebook",
+      "how do you manage a facebook business page",
+      "how to manage a facebook business page",
+      "how to manage a business facebook page"
+    ],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sitelinks",
+      "tads",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/facebook-business-manager",
+    "opportunity_reason": "Cluster of 1 keywords with 18100 combined monthly volume. difficulty 96. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-meta-business-suite-login-2ae80cb9",
+    "primary_keyword": "meta business suite login",
+    "secondary_keywords": [
+      "business suite login"
+    ],
+    "intent": "informational",
+    "search_volume": 11280,
+    "difficulty": 74.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/how-to-access-meta-business-suite"
+    ],
+    "questions": [
+      "how to login to meta business suite",
+      "how to login meta business suite"
+    ],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sitelinks",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/meta-business-suite-login",
+    "opportunity_reason": "Cluster of 2 keywords with 11280 combined monthly volume. difficulty 74. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-sora-ai-video-generator-5eeee998",
+    "primary_keyword": "sora ai video generator",
+    "secondary_keywords": [
+      "sora free"
+    ],
+    "intent": "informational",
+    "search_volume": 10560,
+    "difficulty": 48.5,
+    "competitor_pages": [
+      "https://soku.ai/tools/sora"
+    ],
+    "questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/sora-ai-video-generator",
+    "opportunity_reason": "Cluster of 2 keywords with 10560 combined monthly volume. difficulty 48. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-google-ads-certification-e6ad4b30",
+    "primary_keyword": "google ads certification",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 6600,
+    "difficulty": 71.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/google-ads-certification-cost-worth-it-2026"
+    ],
+    "questions": [
+      "what is google ads search certification",
+      "what to do with google ads certification",
+      "what jobs can you get with google ads certification",
+      "what can you do with google ads certification",
+      "can you make money with google ads certification",
+      "what can i do with google ads certification",
+      "what can you do with a google ad certification",
+      "what can you do with a google ads certification",
+      "what can i do with a google ads certification",
+      "what to do with a google ads certification"
+    ],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/google-ads-certification",
+    "opportunity_reason": "Cluster of 1 keywords with 6600 combined monthly volume. difficulty 71. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-smartly-a436a528",
+    "primary_keyword": "smartly",
+    "secondary_keywords": [],
+    "intent": "local",
+    "search_volume": 5400,
+    "difficulty": 67.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/smartly-io-review-2026-creative-automation"
+    ],
+    "questions": [
+      "what is smart casual",
+      "what are smart goals",
+      "what is a smart goal",
+      "what is smart casual dress code",
+      "how to smart",
+      "what does smart goals stand for",
+      "how to get smart",
+      "what does smart stand for",
+      "what is a smart tv",
+      "are you smart"
+    ],
+    "serp_features": [
+      "gmb",
+      "images",
+      "related_searches",
+      "reviews",
+      "sitelinks",
+      "video"
+    ],
+    "recommended_page_type": "reference-page",
+    "recommended_slug": "/smartly",
+    "opportunity_reason": "Cluster of 1 keywords with 5400 combined monthly volume. difficulty 67. 1 competitor ranking URLs. intent: local. recommended type: reference-page."
+  },
+  {
+    "opportunity_id": "opp-chatgpt-ads-a52ea3d6",
+    "primary_keyword": "chatgpt ads",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 4400,
+    "difficulty": 73.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/chat-gpt-ads"
+    ],
+    "questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/chatgpt-ads",
+    "opportunity_reason": "Cluster of 1 keywords with 4400 combined monthly volume. difficulty 73. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-soku-9d13a465",
+    "primary_keyword": "soku",
+    "secondary_keywords": [],
+    "intent": "local",
+    "search_volume": 3200,
+    "difficulty": 63.0,
+    "competitor_pages": [
+      "https://soku.ai/"
+    ],
+    "questions": [],
+    "serp_features": [
+      "gmb",
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "sitelinks",
+      "video"
+    ],
+    "recommended_page_type": "reference-page",
+    "recommended_slug": "/soku",
+    "opportunity_reason": "Cluster of 1 keywords with 3200 combined monthly volume. difficulty 63. 1 competitor ranking URLs. intent: local. recommended type: reference-page."
+  },
+  {
+    "opportunity_id": "opp-google-ppc-63d7a524",
+    "primary_keyword": "google ppc",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 2400,
+    "difficulty": 75.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/google-ads-ppc"
+    ],
+    "questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/google-ppc",
+    "opportunity_reason": "Cluster of 1 keywords with 2400 combined monthly volume. difficulty 75. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-braces-filter-e0e27f4e",
+    "primary_keyword": "braces filter",
+    "secondary_keywords": [
+      "how will you look with braces",
+      "see how braces look on you"
+    ],
+    "intent": "informational",
+    "search_volume": 1720,
+    "difficulty": 23.666666666666668,
+    "competitor_pages": [
+      "https://soku.ai/tools/braces-filter"
+    ],
+    "questions": [],
+    "serp_features": [
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/braces-filter",
+    "opportunity_reason": "Cluster of 3 keywords with 1720 combined monthly volume. difficulty 24. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-ai-swap-c8147044",
+    "primary_keyword": "ai swap",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 1000,
+    "difficulty": 47.0,
+    "competitor_pages": [
+      "https://soku.ai/tools/ai-face-swap"
+    ],
+    "questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/ai-swap",
+    "opportunity_reason": "Cluster of 1 keywords with 1000 combined monthly volume. difficulty 47. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-video-editing-ai-114ac26a",
+    "primary_keyword": "video editing ai",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 880,
+    "difficulty": 48.0,
+    "competitor_pages": [
+      "https://soku.ai/tools/ai-video-editor"
+    ],
+    "questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "twitter",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/video-editing-ai",
+    "opportunity_reason": "Cluster of 1 keywords with 880 combined monthly volume. difficulty 48. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-google-ads-type-48827296",
+    "primary_keyword": "google ads type",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 480,
+    "difficulty": 43.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/google-ads-campaign-types-explained-beginners"
+    ],
+    "questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/google-ads-type",
+    "opportunity_reason": "Cluster of 1 keywords with 480 combined monthly volume. difficulty 43. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-meta-moment-maker-8a80285f",
+    "primary_keyword": "meta moment maker",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 390,
+    "difficulty": 7.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog"
+    ],
+    "questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/meta-moment-maker",
+    "opportunity_reason": "Cluster of 1 keywords with 390 combined monthly volume. difficulty 7. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-google-ads-automation-7be17e14",
+    "primary_keyword": "google ads automation",
+    "secondary_keywords": [
+      "google ads automation tools",
+      "google ads automation tool",
+      "google adwords automation"
+    ],
+    "intent": "informational",
+    "search_volume": 260,
+    "difficulty": 14.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog/google-ads-automation",
+      "https://www.adspirer.com/docs/guides/google-ads-automation",
+      "https://www.adspirer.com/blog/adwords-automate-tool",
+      "https://www.get-ryze.ai/blog/top-ai-tools-google-ads-management-2026"
+    ],
+    "questions": [],
+    "serp_features": [
+      "bads",
+      "people_also_ask",
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/google-ads-automation",
+    "opportunity_reason": "Cluster of 4 keywords with 260 combined monthly volume. difficulty 14. 4 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-facebook-ads-mcp-4c1755ba",
+    "primary_keyword": "facebook ads mcp",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 260,
+    "difficulty": 17.0,
+    "competitor_pages": [
+      "https://soku.ai/blog/meta-official-mcp-ai-ad-teams"
+    ],
+    "questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/facebook-ads-mcp",
+    "opportunity_reason": "Cluster of 1 keywords with 260 combined monthly volume. difficulty 17. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-facebook-advertising-automation-5515acc4",
+    "primary_keyword": "facebook advertising automation",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 170,
+    "difficulty": 7.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog/facebook-advertising-automation"
+    ],
+    "questions": [],
+    "serp_features": [
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/facebook-advertising-automation",
+    "opportunity_reason": "Cluster of 1 keywords with 170 combined monthly volume. difficulty 7. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-ppc-reporting-tool-64dc9d3f",
+    "primary_keyword": "ppc reporting tool",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 140,
+    "difficulty": 11.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog/ppc-reporting-tools"
+    ],
+    "questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/ppc-reporting-tool",
+    "opportunity_reason": "Cluster of 1 keywords with 140 combined monthly volume. difficulty 11. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-ads-automation-30ac3216",
+    "primary_keyword": "ads automation",
+    "secondary_keywords": [],
+    "intent": "local",
+    "search_volume": 140,
+    "difficulty": 6.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog/google-ads-automation"
+    ],
+    "questions": [],
+    "serp_features": [
+      "gmb",
+      "related_searches",
+      "reviews",
+      "video"
+    ],
+    "recommended_page_type": "reference-page",
+    "recommended_slug": "/ads-automation",
+    "opportunity_reason": "Cluster of 1 keywords with 140 combined monthly volume. difficulty 6. 1 competitor ranking URLs. intent: local. recommended type: reference-page."
+  },
+  {
+    "opportunity_id": "opp-ai-ppc-agency-d4997c12",
+    "primary_keyword": "ai ppc agency",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 110,
+    "difficulty": 19.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/best-ppc-agencies-ai-powered-2026"
+    ],
+    "questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/ai-ppc-agency",
+    "opportunity_reason": "Cluster of 1 keywords with 110 combined monthly volume. difficulty 19. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  },
+  {
+    "opportunity_id": "opp-adspire-c20d6d76",
+    "primary_keyword": "adspire",
+    "secondary_keywords": [],
+    "intent": "local",
+    "search_volume": 110,
+    "difficulty": 9.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/"
+    ],
+    "questions": [],
+    "serp_features": [
+      "gmb",
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ],
+    "recommended_page_type": "reference-page",
+    "recommended_slug": "/adspire",
+    "opportunity_reason": "Cluster of 1 keywords with 110 combined monthly volume. difficulty 9. 1 competitor ranking URLs. intent: local. recommended type: reference-page."
+  },
+  {
+    "opportunity_id": "opp-cursor-ads-b1bb22a8",
+    "primary_keyword": "cursor ads",
+    "secondary_keywords": [],
+    "intent": "informational",
+    "search_volume": 40,
+    "difficulty": 13.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/integrations/clients/cursor"
+    ],
+    "questions": [],
+    "serp_features": [
+      "related_searches",
+      "sge",
+      "video"
+    ],
+    "recommended_page_type": "guide",
+    "recommended_slug": "/cursor-ads",
+    "opportunity_reason": "Cluster of 1 keywords with 40 combined monthly volume. difficulty 13. 1 competitor ranking URLs. intent: informational. recommended type: guide."
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "block_type": null,
+    "block_position": 12,
+    "keyword": "sora ai video generator",
+    "position": 11,
+    "prev_pos": 11,
+    "volume": 9900,
+    "cpc": 1.06,
+    "competition": 0.45,
+    "url": "https://soku.ai/tools/sora",
+    "difficulty": 56,
+    "total_sites": null,
+    "traffic": 33,
+    "traffic_percent": 28.7,
+    "price": 34.98,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 29,
+    "keyword": "ai swap",
+    "position": 29,
+    "prev_pos": null,
+    "volume": 1000,
+    "cpc": 0.85,
+    "competition": 0.02,
+    "url": "https://soku.ai/tools/ai-face-swap",
+    "difficulty": 47,
+    "total_sites": null,
+    "traffic": 17,
+    "traffic_percent": 14.78,
+    "price": 14.45,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 29,
+    "keyword": "video editing ai",
+    "position": 29,
+    "prev_pos": 29,
+    "volume": 880,
+    "cpc": 1.11,
+    "competition": 0.67,
+    "url": "https://soku.ai/tools/ai-video-editor",
+    "difficulty": 48,
+    "total_sites": null,
+    "traffic": 15,
+    "traffic_percent": 13.04,
+    "price": 16.65,
+    "serp_features": [
+      "reviews",
+      "video",
+      "twitter",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": "sge",
+    "block_position": 1,
+    "keyword": "soku",
+    "position": 1,
+    "prev_pos": 1,
+    "volume": 1600,
+    "cpc": 0.41,
+    "competition": 0.03,
+    "url": "https://soku.ai/",
+    "difficulty": 63,
+    "total_sites": null,
+    "traffic": 14,
+    "traffic_percent": 12.17,
+    "price": 5.74,
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "people_also_ask",
+      "images",
+      "gmb",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "L",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 12,
+    "keyword": "braces filter",
+    "position": 12,
+    "prev_pos": 12,
+    "volume": 1100,
+    "cpc": 0.08,
+    "competition": 0.01,
+    "url": "https://soku.ai/tools/braces-filter",
+    "difficulty": 59,
+    "total_sites": null,
+    "traffic": 13,
+    "traffic_percent": 11.3,
+    "price": 1.04,
+    "serp_features": [
+      "video",
+      "images",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 10,
+    "keyword": "sora free",
+    "position": 10,
+    "prev_pos": 10,
+    "volume": 660,
+    "cpc": 0.66,
+    "competition": 0.6,
+    "url": "https://soku.ai/tools/sora",
+    "difficulty": 41,
+    "total_sites": null,
+    "traffic": 6,
+    "traffic_percent": 5.22,
+    "price": 3.96,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 5,
+    "keyword": "soku",
+    "position": 5,
+    "prev_pos": 5,
+    "volume": 1600,
+    "cpc": 0.41,
+    "competition": 0.03,
+    "url": "https://soku.ai/",
+    "difficulty": 63,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 3.48,
+    "price": 1.64,
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "people_also_ask",
+      "images",
+      "gmb",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "L",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 30,
+    "keyword": "how will you look with braces",
+    "position": 30,
+    "prev_pos": 30,
+    "volume": 590,
+    "cpc": 1.22,
+    "competition": 0.07,
+    "url": "https://soku.ai/tools/braces-filter",
+    "difficulty": 6,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 3.48,
+    "price": 4.88,
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "images",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 29,
+    "keyword": "facebook ads mcp",
+    "position": 29,
+    "prev_pos": 29,
+    "volume": 260,
+    "cpc": 3.89,
+    "competition": 0.38,
+    "url": "https://soku.ai/blog/meta-official-mcp-ai-ad-teams",
+    "difficulty": 17,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 3.48,
+    "price": 15.56,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 18,
+    "keyword": "see how braces look on you",
+    "position": 18,
+    "prev_pos": 18,
+    "volume": 30,
+    "cpc": 0,
+    "competition": 0.08,
+    "url": "https://soku.ai/tools/braces-filter",
+    "difficulty": 6,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 0.87,
+    "price": 0,
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  }
+]

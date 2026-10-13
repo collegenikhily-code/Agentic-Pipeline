@@ -1,0 +1,133 @@
+# Competitor Intelligence Configuration
+# =====================================
+#
+# This file configures the competitor crawler and intelligence system.
+# Set enabled: true to activate competitor crawling.
+#
+# The crawler fetches publicly available pages from competitor websites
+# to provide research context for article generation.
+
+crawl:
+  enabled: false  # Set to true to enable competitor crawling
+  max_pages_per_domain: 10
+  max_depth: 2
+  request_timeout: 15
+  max_retries: 3
+  retry_base_delay: 1.0
+  global_concurrency: 5
+  per_domain_concurrency: 2
+  crawl_delay: 1.0  # seconds between requests to same domain
+  max_response_bytes: 5242880  # 5 MB
+  user_agent: "SEO-AEO-GEO-Pipeline/1.0 (competitive-research)"
+  cache_ttl_hours: 168  # 7 days
+  respect_robots_txt: true
+  relevant_path_hints:
+    - product
+    - features
+    - solutions
+    - use-case
+    - use_cases
+    - integrations
+    - pricing
+    - faq
+    - docs
+    - documentation
+    - help
+    - blog
+    - guide
+    - mcp
+  exclude_path_hints:
+    - careers
+    - login
+    - signup
+    - account
+    - legal
+    - privacy
+    - cookie
+    - terms
+    - assets
+    - static
+    - cdn
+    - api
+    - webhook
+
+competitors:
+  - name: "Blend MCP"
+    domain: "blend-ai.com"
+    seed_urls:
+      - "https://blend-ai.com/mcp"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  - name: "Pipeboard"
+    domain: "pipeboard.co"
+    seed_urls:
+      - "https://pipeboard.co/"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  - name: "Markifact"
+    domain: "markifact.com"
+    seed_urls:
+      - "https://www.markifact.com/mcp"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  - name: "PaidSync"
+    domain: "paidsync.ai"
+    seed_urls:
+      - "https://app.paidsync.ai/"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  - name: "Muze"
+    domain: "muzecmo.com"
+    seed_urls:
+      - "https://www.muzecmo.com/"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  - name: "AdKit"
+    domain: "adkit.so"
+    seed_urls:
+      - "https://adkit.so/mcp"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  - name: "Ryze AI"
+    domain: "get-ryze.ai"
+    seed_urls:
+      - "https://www.get-ryze.ai/"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  - name: "Adspirer"
+    domain: "adspirer.com"
+    seed_urls:
+      - "https://www.adspirer.com/"
+    enabled: true
+    max_pages: 10
+    priority: 10
+
+  # Birch and Soku: domains not yet confirmed
+  # Uncomment and configure when domains are known
+  # - name: "Birch"
+  #   domain: ""
+  #   seed_urls: []
+  #   enabled: false
+  #   max_pages: 10
+  #   priority: 5
+
+  # - name: "Soku"
+  #   domain: ""
+  #   seed_urls: []
+  #   enabled: false
+  #   max_pages: 10
+  #   priority: 5

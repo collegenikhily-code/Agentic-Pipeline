@@ -1,0 +1,254 @@
+[
+  {
+    "block_type": null,
+    "block_position": 28,
+    "keyword": "instagram meta",
+    "position": 28,
+    "prev_pos": 28,
+    "volume": 880,
+    "cpc": 2.25,
+    "competition": 0.01,
+    "url": "https://www.markifact.com/",
+    "difficulty": 49,
+    "total_sites": null,
+    "traffic": 13,
+    "traffic_percent": 14.94,
+    "price": 29.25,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 28,
+    "keyword": "instagram meta ai",
+    "position": 28,
+    "prev_pos": 28,
+    "volume": 210,
+    "cpc": 2.21,
+    "competition": 0.01,
+    "url": "https://www.markifact.com/",
+    "difficulty": 29,
+    "total_sites": null,
+    "traffic": 7,
+    "traffic_percent": 8.05,
+    "price": 15.47,
+    "serp_features": [
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 10,
+    "keyword": "meta ads mcp",
+    "position": 10,
+    "prev_pos": 10,
+    "volume": 590,
+    "cpc": 4.23,
+    "competition": 0.27,
+    "url": "https://www.markifact.com/meta-ads-mcp",
+    "difficulty": 22,
+    "total_sites": null,
+    "traffic": 7,
+    "traffic_percent": 8.05,
+    "price": 29.61,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "bads",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 10,
+    "keyword": "facebook ads mcp",
+    "position": 10,
+    "prev_pos": 10,
+    "volume": 260,
+    "cpc": 3.89,
+    "competition": 0.38,
+    "url": "https://www.markifact.com/meta-ads-mcp",
+    "difficulty": 17,
+    "total_sites": null,
+    "traffic": 7,
+    "traffic_percent": 8.05,
+    "price": 27.23,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 29,
+    "keyword": "meta instagram",
+    "position": 29,
+    "prev_pos": 29,
+    "volume": 810,
+    "cpc": 2.41,
+    "competition": 0.01,
+    "url": "https://www.markifact.com/",
+    "difficulty": 58,
+    "total_sites": null,
+    "traffic": 5,
+    "traffic_percent": 5.75,
+    "price": 12.05,
+    "serp_features": [
+      "reviews",
+      "video",
+      "images",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 20,
+    "keyword": "marketing agent",
+    "position": 19,
+    "prev_pos": null,
+    "volume": 990,
+    "cpc": 4.73,
+    "competition": 0.2,
+    "url": "https://www.markifact.com/agent",
+    "difficulty": 31,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 4.6,
+    "price": 18.92,
+    "serp_features": [
+      "local_pack",
+      "reviews",
+      "video",
+      "people_also_ask",
+      "bads",
+      "sge",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "intents": [
+      "L",
+      "C"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 21,
+    "keyword": "meta moment maker",
+    "position": 21,
+    "prev_pos": 21,
+    "volume": 390,
+    "cpc": 13.21,
+    "competition": 0.1,
+    "url": "https://www.markifact.com/",
+    "difficulty": 7,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 4.6,
+    "price": 52.84,
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 12,
+    "keyword": "klaviyo mcp",
+    "position": 12,
+    "prev_pos": 12,
+    "volume": 260,
+    "cpc": 15.55,
+    "competition": 0.22,
+    "url": "https://www.markifact.com/klaviyo-mcp",
+    "difficulty": 16,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 4.6,
+    "price": 62.2,
+    "serp_features": [
+      "reviews",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 18,
+    "keyword": "link post ad",
+    "position": 17,
+    "prev_pos": 17,
+    "volume": 170,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://www.markifact.com/",
+    "difficulty": 36,
+    "total_sites": null,
+    "traffic": 3,
+    "traffic_percent": 3.45,
+    "price": 0,
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 18,
+    "keyword": "monthly seo report pdf",
+    "position": 18,
+    "prev_pos": 18,
+    "volume": 50,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://www.markifact.com/templates/monthly-seo-performance-slides",
+    "difficulty": 10,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 2.3,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  }
+]

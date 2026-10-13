@@ -1,0 +1,265 @@
+[
+  {
+    "block_type": null,
+    "block_position": 7,
+    "keyword": "ads as",
+    "position": 5,
+    "prev_pos": 5,
+    "volume": 1900,
+    "cpc": 1.52,
+    "competition": 0,
+    "url": "https://adkit.so/resources/ads-examples/saas-ad-examples",
+    "difficulty": 68,
+    "total_sites": null,
+    "traffic": 12,
+    "traffic_percent": 3.4,
+    "price": 18.24,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 4,
+    "keyword": "ad mockup facebook",
+    "position": 4,
+    "prev_pos": 4,
+    "volume": 390,
+    "cpc": 5.49,
+    "competition": 0.11,
+    "url": "https://adkit.so/tools/ad-preview/facebook",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 11,
+    "traffic_percent": 3.12,
+    "price": 60.39,
+    "serp_features": [
+      "reviews",
+      "video",
+      "images",
+      "bads",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 4,
+    "keyword": "mockup facebook ad",
+    "position": 4,
+    "prev_pos": 4,
+    "volume": 390,
+    "cpc": 5.49,
+    "competition": 0.11,
+    "url": "https://adkit.so/tools/ad-preview/facebook",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 11,
+    "traffic_percent": 3.12,
+    "price": 60.39,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "bads",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": "sitelinks",
+    "block_position": 2,
+    "keyword": "adkit",
+    "position": 2,
+    "prev_pos": 2,
+    "volume": 70,
+    "cpc": 18.58,
+    "competition": 0.17,
+    "url": "https://adkit.so/",
+    "difficulty": 9,
+    "total_sites": null,
+    "traffic": 9,
+    "traffic_percent": 2.55,
+    "price": 167.22,
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "images",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 6,
+    "keyword": "meta ads mcp",
+    "position": 6,
+    "prev_pos": 6,
+    "volume": 590,
+    "cpc": 4.23,
+    "competition": 0.27,
+    "url": "https://adkit.so/features/ads-mcp/meta",
+    "difficulty": 22,
+    "total_sites": null,
+    "traffic": 9,
+    "traffic_percent": 2.55,
+    "price": 38.07,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "bads",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": "sge",
+    "block_position": 1,
+    "keyword": "agent advertising",
+    "position": 1,
+    "prev_pos": 1,
+    "volume": 1800,
+    "cpc": 4.87,
+    "competition": 0.12,
+    "url": "https://adkit.so/resources/ai-ad-agents",
+    "difficulty": 68,
+    "total_sites": null,
+    "traffic": 8,
+    "traffic_percent": 2.27,
+    "price": 38.96,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "knowledge_graph",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 28,
+    "keyword": "facebook engagement rate calculator",
+    "position": 28,
+    "prev_pos": 28,
+    "volume": 260,
+    "cpc": 2.46,
+    "competition": 0.06,
+    "url": "https://adkit.so/tools/engagement-rate-calculator",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 8,
+    "traffic_percent": 2.27,
+    "price": 19.68,
+    "serp_features": [
+      "reviews",
+      "people_also_ask",
+      "digital_complaints",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 23,
+    "keyword": "instagram reel safe zone template",
+    "position": 23,
+    "prev_pos": 23,
+    "volume": 590,
+    "cpc": 0,
+    "competition": 0.01,
+    "url": "https://adkit.so/tools/safe-zones/instagram",
+    "difficulty": 16,
+    "total_sites": null,
+    "traffic": 8,
+    "traffic_percent": 2.27,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "images",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 22,
+    "keyword": "engagement calculator",
+    "position": 22,
+    "prev_pos": 22,
+    "volume": 260,
+    "cpc": 1.99,
+    "competition": 0.12,
+    "url": "https://adkit.so/tools/engagement-rate-calculator",
+    "difficulty": 27,
+    "total_sites": null,
+    "traffic": 7,
+    "traffic_percent": 1.98,
+    "price": 13.93,
+    "serp_features": [
+      "reviews",
+      "video",
+      "images",
+      "digital_complaints",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 8,
+    "keyword": "linkedin ad examples",
+    "position": 8,
+    "prev_pos": 8,
+    "volume": 480,
+    "cpc": 47.1,
+    "competition": 0.16,
+    "url": "https://adkit.so/tools/ad-library/linkedin",
+    "difficulty": 28,
+    "total_sites": null,
+    "traffic": 6,
+    "traffic_percent": 1.7,
+    "price": 282.6,
+    "serp_features": [
+      "reviews",
+      "video",
+      "images",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  }
+]

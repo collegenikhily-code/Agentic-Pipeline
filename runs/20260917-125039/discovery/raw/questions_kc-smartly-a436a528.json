@@ -1,0 +1,184 @@
+{
+  "total": 15879,
+  "keywords": [
+    {
+      "keyword": "what is smart casual",
+      "cpc": 0.03,
+      "difficulty": 74,
+      "volume": 12100,
+      "competition": 0.17,
+      "serp_features": [
+        "video",
+        "images",
+        "sge",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what are smart goals",
+      "cpc": 0.06,
+      "difficulty": 91,
+      "volume": 10800,
+      "competition": 0.16,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what is a smart goal",
+      "cpc": 0.06,
+      "difficulty": 67,
+      "volume": 9900,
+      "competition": 0.14,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what is smart casual dress code",
+      "cpc": 0.04,
+      "difficulty": 60,
+      "volume": 8100,
+      "competition": 0.12,
+      "serp_features": [
+        "video",
+        "images",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to smart",
+      "cpc": 0.59,
+      "difficulty": 76,
+      "volume": 6600,
+      "competition": 0.05,
+      "serp_features": [
+        "video",
+        "people_also_ask",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what does smart goals stand for",
+      "cpc": 0.05,
+      "difficulty": 73,
+      "volume": 5400,
+      "competition": 0.15,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "find_results_on",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to get smart",
+      "cpc": 0.61,
+      "difficulty": 63,
+      "volume": 4400,
+      "competition": 0.14,
+      "serp_features": [
+        "video",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what does smart stand for",
+      "cpc": 0.05,
+      "difficulty": 73,
+      "volume": 4400,
+      "competition": 0.15,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "bads",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what is a smart tv",
+      "cpc": 0.02,
+      "difficulty": 65,
+      "volume": 2900,
+      "competition": 0.23,
+      "serp_features": [
+        "reviews",
+        "video",
+        "images",
+        "bads",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "are you smart",
+      "cpc": 0.16,
+      "difficulty": 66,
+      "volume": 2400,
+      "competition": 0.01,
+      "serp_features": [
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    }
+  ]
+}

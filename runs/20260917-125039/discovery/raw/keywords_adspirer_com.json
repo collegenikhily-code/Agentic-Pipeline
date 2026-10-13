@@ -1,0 +1,258 @@
+[
+  {
+    "block_type": null,
+    "block_position": 28,
+    "keyword": "meta moment maker",
+    "position": 28,
+    "prev_pos": 28,
+    "volume": 390,
+    "cpc": 13.21,
+    "competition": 0.1,
+    "url": "https://www.adspirer.com/blog",
+    "difficulty": 7,
+    "total_sites": null,
+    "traffic": 3,
+    "traffic_percent": 17.65,
+    "price": 39.63,
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 14,
+    "keyword": "ads automation",
+    "position": 14,
+    "prev_pos": 14,
+    "volume": 140,
+    "cpc": 8.03,
+    "competition": 0.14,
+    "url": "https://www.adspirer.com/blog/google-ads-automation",
+    "difficulty": 6,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 11.76,
+    "price": 16.06,
+    "serp_features": [
+      "reviews",
+      "video",
+      "gmb",
+      "related_searches"
+    ],
+    "intents": [
+      "L",
+      "C"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 23,
+    "keyword": "facebook advertising automation",
+    "position": 22,
+    "prev_pos": 22,
+    "volume": 170,
+    "cpc": 10.33,
+    "competition": 0.2,
+    "url": "https://www.adspirer.com/blog/facebook-advertising-automation",
+    "difficulty": 7,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 11.76,
+    "price": 20.66,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 16,
+    "keyword": "google ads automation tool",
+    "position": 16,
+    "prev_pos": 16,
+    "volume": 50,
+    "cpc": 14.46,
+    "competition": 0.09,
+    "url": "https://www.adspirer.com/blog/adwords-automate-tool",
+    "difficulty": 12,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 11.76,
+    "price": 28.92,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 6,
+    "keyword": "adspire",
+    "position": 6,
+    "prev_pos": 6,
+    "volume": 110,
+    "cpc": 8.25,
+    "competition": 0.27,
+    "url": "https://www.adspirer.com/",
+    "difficulty": 9,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 5.88,
+    "price": 8.25,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "gmb",
+      "related_searches"
+    ],
+    "intents": [
+      "L",
+      "C"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 5,
+    "keyword": "google adwords automation",
+    "position": 5,
+    "prev_pos": 5,
+    "volume": 40,
+    "cpc": 0,
+    "competition": 0.15,
+    "url": "https://www.adspirer.com/docs/guides/google-ads-automation",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 5.88,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "bads",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": "sge",
+    "block_position": 1,
+    "keyword": "cursor ads",
+    "position": 1,
+    "prev_pos": null,
+    "volume": 40,
+    "cpc": 5.44,
+    "competition": 0.08,
+    "url": "https://www.adspirer.com/integrations/clients/cursor",
+    "difficulty": 13,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 5.88,
+    "price": 5.44,
+    "serp_features": [
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": "sge",
+    "block_position": 1,
+    "keyword": "google ads automation",
+    "position": 1,
+    "prev_pos": 1,
+    "volume": 70,
+    "cpc": 7.01,
+    "competition": 0.31,
+    "url": "https://www.adspirer.com/blog/google-ads-automation",
+    "difficulty": 25,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 5.88,
+    "price": 7.01,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 23,
+    "keyword": "google ads automation tools",
+    "position": 23,
+    "prev_pos": 23,
+    "volume": 50,
+    "cpc": 14.46,
+    "competition": 0.09,
+    "url": "https://www.adspirer.com/docs/guides/google-ads-automation",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 5.88,
+    "price": 14.46,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 21,
+    "keyword": "ppc reporting tool",
+    "position": 21,
+    "prev_pos": 21,
+    "volume": 140,
+    "cpc": 0,
+    "competition": 0.04,
+    "url": "https://www.adspirer.com/blog/ppc-reporting-tools",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 5.88,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  }
+]

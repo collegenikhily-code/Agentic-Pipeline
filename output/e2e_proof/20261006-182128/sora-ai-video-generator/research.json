@@ -1,0 +1,99 @@
+{
+  "opportunity_id": 1,
+  "sources": [
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "I don't have information about Sora AI in the provided context, so I cannot answer this question factually without risking inaccuracy. Please provide source material or context about Sora AI, and I'll summarize it concisely for you.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_1",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Sora AI is OpenAI's text-to-video model that generates clips up to 60 seconds in 1080p (and up to 4K on higher tiers), supporting widescreen 16:9, portrait 9:16, and square 1:1 aspect ratios. It maintains character and scene consistency across multiple shots and accepts text or image prompts via ChatGPT Plus/Pro or the API. For creators, it's best for prototyping, short-form social content, and storyboarding, though outputs may need cleanup for production use.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_2",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Sora, OpenAI's text-to-video model, is limited to ~1-minute clips and struggles with complex physics, spatial consistency, and cause-and-effect reasoning. Safety measures include red-teaming with filmmakers, content filters blocking violent/sexual material, C2PA metadata, and detection tools for AI-generated content; it also blocks prompts involving real public figures or deepfakes. Ethical concerns center on misinformation, deepfake misuse, copyright/consent around training data, and potential ",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_3",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Sora AI, OpenAI's text-to-video model, enables marketers to generate product demos and ad visuals from text prompts, filmmakers to create pre-visualizations and storyboards, and social media creators to produce short-form content without expensive equipment or crews. It supports rapid prototyping and personalized video at scale, though outputs require human review for accuracy, branding consistency, and potential AI-detection concerns on platforms.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_5",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "data_hash": "489d2b890b7eb9bf",
+  "provider": "deep_research_agent",
+  "source_count": 4,
+  "created_at": "2026-01-01T00:00:00Z",
+  "primary_keyword": "sora ai video generator",
+  "intent": "informational",
+  "content_gaps": [
+    "How does Sora AI compare to other AI video generators like Runway, Pika, and Kling?"
+  ],
+  "differentiation_strategy": "Establish topical expertise through comprehensive coverage, data points, and expert citations",
+  "page_type_recommendation": "role-guide",
+  "aeo_geo_requirements": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "schema_markup_needs": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "competing_analysis": [
+    {
+      "page": "OpenAI official Sora documentation and blog"
+    },
+    {
+      "page": "TechCrunch Sora review and analysis"
+    },
+    {
+      "page": "The Verge AI video generator comparison"
+    },
+    {
+      "page": "YouTube tutorial and demonstration videos"
+    },
+    {
+      "page": "AI tool comparison blog posts"
+    }
+  ],
+  "questions_answered": [
+    "What is Sora AI and how does its video generation technology work?",
+    "What are the key features, video quality, and resolution capabilities of Sora AI?",
+    "What are the limitations, safety measures, and ethical concerns with Sora AI video generation?",
+    "What are practical use cases and applications for Sora AI in marketing, film, and social media?"
+  ],
+  "audience_profile": "Content creators, marketers, developers, and tech enthusiasts seeking to understand AI video generation capabilities and applications",
+  "completion_status": "complete"
+}

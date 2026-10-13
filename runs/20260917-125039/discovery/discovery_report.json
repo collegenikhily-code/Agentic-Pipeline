@@ -1,0 +1,24 @@
+{
+  "run_id": "20260917-125039",
+  "mode": "competitor_led",
+  "domain": null,
+  "competitors": [
+    "blend-ai.com",
+    "pipeboard.co",
+    "markifact.com",
+    "paidsync.ai",
+    "muzecmo.com",
+    "adkit.so",
+    "get-ryze.ai",
+    "adspirer.com",
+    "soku.ai"
+  ],
+  "source": "us",
+  "total_observations": 90,
+  "total_competitor_pages": 55,
+  "total_clusters": 44,
+  "total_opportunities": 44,
+  "total_questions": 32,
+  "keyword_limit": 30,
+  "output_dir": "runs/20260917-125039/discovery"
+}

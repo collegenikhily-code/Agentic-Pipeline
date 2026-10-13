@@ -1,0 +1,35 @@
+{
+  "total": 2,
+  "keywords": [
+    {
+      "keyword": "how to login to meta business suite",
+      "cpc": 0,
+      "difficulty": 30,
+      "volume": 50,
+      "competition": 0,
+      "serp_features": [
+        "reviews",
+        "sitelinks",
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I",
+        "N"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to login meta business suite",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0.03,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    }
+  ]
+}

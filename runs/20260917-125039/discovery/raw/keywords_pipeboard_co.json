@@ -1,0 +1,264 @@
+[
+  {
+    "block_type": null,
+    "block_position": 1,
+    "keyword": "pipe board",
+    "position": 1,
+    "prev_pos": 1,
+    "volume": 70,
+    "cpc": 0,
+    "competition": 0.03,
+    "url": "https://pipeboard.co/setup",
+    "difficulty": 10,
+    "total_sites": null,
+    "traffic": 11,
+    "traffic_percent": 10.28,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 26,
+    "keyword": "facebook video size",
+    "position": 26,
+    "prev_pos": null,
+    "volume": 390,
+    "cpc": 7.8,
+    "competition": 0.07,
+    "url": "https://pipeboard.co/blog/video-ads-facebook-specs",
+    "difficulty": 31,
+    "total_sites": null,
+    "traffic": 9,
+    "traffic_percent": 8.41,
+    "price": 70.2,
+    "serp_features": [
+      "video",
+      "digital_complaints",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 7,
+    "keyword": "facebook ads mcp",
+    "position": 7,
+    "prev_pos": 7,
+    "volume": 260,
+    "cpc": 3.89,
+    "competition": 0.38,
+    "url": "https://pipeboard.co/",
+    "difficulty": 17,
+    "total_sites": null,
+    "traffic": 7,
+    "traffic_percent": 6.54,
+    "price": 27.23,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 12,
+    "keyword": "video dimensions for facebook ads",
+    "position": 12,
+    "prev_pos": 12,
+    "volume": 210,
+    "cpc": 8.32,
+    "competition": 0.31,
+    "url": "https://pipeboard.co/blog/video-ads-facebook-specs",
+    "difficulty": 25,
+    "total_sites": null,
+    "traffic": 5,
+    "traffic_percent": 4.67,
+    "price": 41.6,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "digital_complaints",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": "sge",
+    "block_position": 1,
+    "keyword": "fb video ad specs",
+    "position": 1,
+    "prev_pos": 1,
+    "volume": 140,
+    "cpc": 8.32,
+    "competition": 0.43,
+    "url": "https://pipeboard.co/blog/video-ads-facebook-specs",
+    "difficulty": 27,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 3.74,
+    "price": 33.28,
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 5,
+    "keyword": "facebook video ad specs",
+    "position": 4,
+    "prev_pos": 4,
+    "volume": 140,
+    "cpc": 8.32,
+    "competition": 0.43,
+    "url": "https://pipeboard.co/blog/video-ads-facebook-specs",
+    "difficulty": 38,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 1.87,
+    "price": 16.64,
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "sge",
+      "related_searches",
+      "mads"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 20,
+    "keyword": "facebook ad cost calculator",
+    "position": 20,
+    "prev_pos": 20,
+    "volume": 260,
+    "cpc": 1.96,
+    "competition": 0.02,
+    "url": "https://pipeboard.co/blog/facebook-advertising-cost-calculator",
+    "difficulty": 22,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 1.87,
+    "price": 3.92,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 12,
+    "keyword": "facebook video specs",
+    "position": 12,
+    "prev_pos": 11,
+    "volume": 110,
+    "cpc": 8.32,
+    "competition": 0.3,
+    "url": "https://pipeboard.co/blog/video-ads-facebook-specs",
+    "difficulty": 35,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 1.87,
+    "price": 16.64,
+    "serp_features": [
+      "reviews",
+      "video",
+      "digital_complaints",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  },
+  {
+    "block_type": "sge",
+    "block_position": 1,
+    "keyword": "facebook test",
+    "position": 1,
+    "prev_pos": 1,
+    "volume": 210,
+    "cpc": 0,
+    "competition": 0.01,
+    "url": "https://pipeboard.co/blog/facebook-ads-conversion-tracking",
+    "difficulty": 15,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 1.87,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 4,
+    "keyword": "facebook video ads specs",
+    "position": 4,
+    "prev_pos": 4,
+    "volume": 140,
+    "cpc": 8.32,
+    "competition": 0.43,
+    "url": "https://pipeboard.co/blog/video-ads-facebook-specs",
+    "difficulty": 44,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 1.87,
+    "price": 16.64,
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I",
+      "N"
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "opportunity_id": 1,
+  "sources": [
+    {
+      "source_url": "GTM Research Knowledge.md",
+      "source_type": "dify_knowledge",
+      "excerpt": "helping users manage and automate advertising workflows.",
+      "confidence": 0.7385500995918367,
+      "collector": "dify_rag",
+      "metadata": {
+        "document_id": "52787965-8eba-4d03-8665-d2c9b38664de",
+        "position": 9
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "GTM Research Knowledge.md",
+      "source_type": "dify_knowledge",
+      "excerpt": "Give every ad account an AI media buyer for campaign builds, daily monitoring, optimization proposals, and cross-platform reporting \u2014 with human approval on every consequential move.",
+      "confidence": 0.6151673134862795,
+      "collector": "dify_rag",
+      "metadata": {
+        "document_id": "52787965-8eba-4d03-8665-d2c9b38664de",
+        "position": 116
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "GTM Research Knowledge.md",
+      "source_type": "dify_knowledge",
+      "excerpt": "- Google Ads",
+      "confidence": 0.524478531784365,
+      "collector": "dify_rag",
+      "metadata": {
+        "document_id": "52787965-8eba-4d03-8665-d2c9b38664de",
+        "position": 11
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Core Google Ads automation features typically include AI-driven campaign building, daily performance monitoring, automated optimization proposals, and cross-platform reporting. These tools generally operate on a human-in-the-loop model where artificial intelligence handles routine management tasks, but consequential strategic decisions require human approval. For content creators, this means using automation to streamline campaign workflows while retaining oversight over budget allocation and ma",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_1",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Relying solely on Google Ads automation risks budget waste from irrelevant clicks, auction volatility, and algorithmic bidding errors during learning phases or market shifts. Common failures include overly broad targeting, misplaced automated rules, and audience expansion that dilutes spend without human oversight. To mitigate this, creators should use AI tools for monitoring and optimization proposals but require human approval on consequential moves like budget changes, bidding strategy shifts",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_2",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Automated bidding strategies in Google Ads generally outperform manual management on ROI at scale by using machine learning to adjust bids in real time based on conversion likelihood, whereas manual CPC requires constant human oversight. Key methods like Target CPA and Maximize Conversions need sufficient historical conversion data to train effectively and work best when paired with human approval for major budget or strategy changes. For content creators, this means reduced daily micromanagemen",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_3",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Beginners should start by deploying an AI media buyer for daily monitoring, campaign builds, and optimization proposals within Google Ads, while utilizing it for cross-platform reporting. To implement automated rules safely, always mandate human approval on every consequential move before execution. This ensures automation efficiency is balanced with manual oversight to prevent costly errors.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_4",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "data_hash": "272559c9c7fec32c",
+  "provider": "deep_research_agent",
+  "source_count": 7,
+  "created_at": "2026-01-01T00:00:00Z",
+  "primary_keyword": "google ads automation",
+  "intent": "informational",
+  "content_gaps": [],
+  "differentiation_strategy": "Establish topical expertise through comprehensive coverage, data points, and expert citations",
+  "page_type_recommendation": "role-guide",
+  "aeo_geo_requirements": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "schema_markup_needs": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "competing_analysis": [
+    {
+      "page": "Google Ads Help Center automation guides and official blogs"
+    },
+    {
+      "page": "WordStream and Search Engine Journal strategy articles"
+    },
+    {
+      "page": "Agency comparison guides and tool reviews"
+    },
+    {
+      "page": "YouTube tutorial videos and LinkedIn Learning courses"
+    },
+    {
+      "page": "Reddit and Quora community discussion threads"
+    }
+  ],
+  "questions_answered": [
+    "What are the core types of Google Ads automation features and how do they function?",
+    "What are the risks and common failure scenarios when relying on Google Ads automation?",
+    "How do automated bidding strategies compare to manual management in terms of ROI?",
+    "What step-by-step process should beginners follow to implement automated rules safely?"
+  ],
+  "audience_profile": "Digital marketers, small business owners, and PPC managers seeking foundational knowledge about Google Ads automation to improve campaign efficiency without deep technical expertise.",
+  "completion_status": "complete"
+}

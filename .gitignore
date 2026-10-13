@@ -1,0 +1,47 @@
+# M1: Development environment for seo-aeo-geo-pipeline
+#
+# Required to run:
+#   make install    - install package and dependencies
+#   make test       - run unit tests (no PostgreSQL required)
+#   make integration  - run integration tests (Docker PostgreSQL required)
+#   make lint       - run linting
+
+# Gitignored files
+.env
+__pycache__/
+*.pyc
+.pyvenv/
+/venv/
+/env/
+.mcp-auth/
+.hypothesis/
+.coverage
+
+# Generated pipeline outputs
+output/e2e_proof/*/
+!output/e2e_proof/20261006-182128/
+!output/e2e_proof/20261005-132103/
+output/competitor_proof/*/
+output/concurrency_proof/*/
+output/intelligence_proof/*/
+runs/*/
+!runs/20260917-125039/
+!runs/20260917-134509/
+!runs/20260917-133825/
+*.log
+traces.jsonl
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+{
+  "run_id": "20260917-134509",
+  "mode": "competitor_led",
+  "domain": null,
+  "competitors": [
+    "adspirer.com",
+    "get-ryze.ai",
+    "soku.ai"
+  ],
+  "source": "us",
+  "total_observations": 30,
+  "total_competitor_pages": 23,
+  "total_clusters": 21,
+  "total_opportunities": 21,
+  "total_questions": 32,
+  "keyword_limit": 300,
+  "output_dir": "runs/20260917-134509/discovery"
+}

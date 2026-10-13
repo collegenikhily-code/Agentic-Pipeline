@@ -1,0 +1,122 @@
+{
+  "total": 10,
+  "keywords": [
+    {
+      "keyword": "what is google ads search certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0.01,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    },
+    {
+      "keyword": "what to do with google ads certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    },
+    {
+      "keyword": "what jobs can you get with google ads certification",
+      "cpc": 0,
+      "difficulty": 19,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [
+        "reviews",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what can you do with google ads certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    },
+    {
+      "keyword": "can you make money with google ads certification",
+      "cpc": 0,
+      "difficulty": 28,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "what can i do with google ads certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    },
+    {
+      "keyword": "what can you do with a google ad certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    },
+    {
+      "keyword": "what can you do with a google ads certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    },
+    {
+      "keyword": "what can i do with a google ads certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 10,
+      "competition": 0,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    },
+    {
+      "keyword": "what to do with a google ads certification",
+      "cpc": 0,
+      "difficulty": 0,
+      "volume": 0,
+      "competition": 0,
+      "serp_features": [],
+      "intents": [],
+      "history_trend": null
+    }
+  ]
+}

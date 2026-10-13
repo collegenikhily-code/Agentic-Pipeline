@@ -1,0 +1,581 @@
+[
+  {
+    "keyword": "meta moment maker",
+    "search_volume": 390,
+    "difficulty": 7,
+    "cpc": 13.21,
+    "competition": 0.1,
+    "intent": "informational",
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/blog",
+    "ranking_position": 28,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "ads automation",
+    "search_volume": 140,
+    "difficulty": 6,
+    "cpc": 8.03,
+    "competition": 0.14,
+    "intent": "local",
+    "serp_features": [
+      "reviews",
+      "video",
+      "gmb",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/blog/google-ads-automation",
+    "ranking_position": 14,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "facebook advertising automation",
+    "search_volume": 170,
+    "difficulty": 7,
+    "cpc": 10.33,
+    "competition": 0.2,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/blog/facebook-advertising-automation",
+    "ranking_position": 22,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google ads automation tool",
+    "search_volume": 50,
+    "difficulty": 12,
+    "cpc": 14.46,
+    "competition": 0.09,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/blog/adwords-automate-tool",
+    "ranking_position": 16,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "adspire",
+    "search_volume": 110,
+    "difficulty": 9,
+    "cpc": 8.25,
+    "competition": 0.27,
+    "intent": "local",
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "gmb",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/",
+    "ranking_position": 6,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google adwords automation",
+    "search_volume": 40,
+    "difficulty": 11,
+    "cpc": 0.0,
+    "competition": 0.15,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "bads",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/docs/guides/google-ads-automation",
+    "ranking_position": 5,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "cursor ads",
+    "search_volume": 40,
+    "difficulty": 13,
+    "cpc": 5.44,
+    "competition": 0.08,
+    "intent": "informational",
+    "serp_features": [
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/integrations/clients/cursor",
+    "ranking_position": 1,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google ads automation",
+    "search_volume": 70,
+    "difficulty": 25,
+    "cpc": 7.01,
+    "competition": 0.31,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/blog/google-ads-automation",
+    "ranking_position": 1,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google ads automation tools",
+    "search_volume": 50,
+    "difficulty": 11,
+    "cpc": 14.46,
+    "competition": 0.09,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/docs/guides/google-ads-automation",
+    "ranking_position": 23,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "ppc reporting tool",
+    "search_volume": 140,
+    "difficulty": 11,
+    "cpc": 0.0,
+    "competition": 0.04,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "adspirer.com",
+    "ranking_url": "https://www.adspirer.com/blog/ppc-reporting-tools",
+    "ranking_position": 21,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "facebook business manager",
+    "search_volume": 18100,
+    "difficulty": 96,
+    "cpc": 15.51,
+    "competition": 0.28,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "tads",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/facebook-busines-manager",
+    "ranking_position": 27,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "meta business suite login",
+    "search_volume": 10800,
+    "difficulty": 97,
+    "cpc": 8.46,
+    "competition": 0.01,
+    "intent": "informational",
+    "serp_features": [
+      "sitelinks",
+      "video",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/how-to-access-meta-business-suite",
+    "ranking_position": 7,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google ads certification",
+    "search_volume": 6600,
+    "difficulty": 71,
+    "cpc": 2.67,
+    "competition": 0.23,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/google-ads-certification-cost-worth-it-2026",
+    "ranking_position": 10,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "ai ppc agency",
+    "search_volume": 110,
+    "difficulty": 19,
+    "cpc": 0.0,
+    "competition": 0.01,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/best-ppc-agencies-ai-powered-2026",
+    "ranking_position": 1,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "chatgpt ads",
+    "search_volume": 4400,
+    "difficulty": 73,
+    "cpc": 6.16,
+    "competition": 0.56,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/chat-gpt-ads",
+    "ranking_position": 22,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google ppc",
+    "search_volume": 2400,
+    "difficulty": 75,
+    "cpc": 19.73,
+    "competition": 0.35,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/google-ads-ppc",
+    "ranking_position": 22,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "smartly",
+    "search_volume": 5400,
+    "difficulty": 67,
+    "cpc": 6.31,
+    "competition": 0.25,
+    "intent": "local",
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "images",
+      "gmb",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/smartly-io-review-2026-creative-automation",
+    "ranking_position": 19,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google ads automation tools",
+    "search_volume": 50,
+    "difficulty": 11,
+    "cpc": 14.46,
+    "competition": 0.09,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/top-ai-tools-google-ads-management-2026",
+    "ranking_position": 1,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "business suite login",
+    "search_volume": 480,
+    "difficulty": 51,
+    "cpc": 10.39,
+    "competition": 0.05,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/how-to-access-meta-business-suite",
+    "ranking_position": 6,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "google ads type",
+    "search_volume": 480,
+    "difficulty": 43,
+    "cpc": 0.91,
+    "competition": 0.19,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "get-ryze.ai",
+    "ranking_url": "https://www.get-ryze.ai/blog/google-ads-campaign-types-explained-beginners",
+    "ranking_position": 1,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "sora ai video generator",
+    "search_volume": 9900,
+    "difficulty": 56,
+    "cpc": 1.06,
+    "competition": 0.45,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/tools/sora",
+    "ranking_position": 11,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "ai swap",
+    "search_volume": 1000,
+    "difficulty": 47,
+    "cpc": 0.85,
+    "competition": 0.02,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/tools/ai-face-swap",
+    "ranking_position": 29,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "video editing ai",
+    "search_volume": 880,
+    "difficulty": 48,
+    "cpc": 1.11,
+    "competition": 0.67,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "twitter",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/tools/ai-video-editor",
+    "ranking_position": 29,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "soku",
+    "search_volume": 1600,
+    "difficulty": 63,
+    "cpc": 0.41,
+    "competition": 0.03,
+    "intent": "local",
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "people_also_ask",
+      "images",
+      "gmb",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/",
+    "ranking_position": 1,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "braces filter",
+    "search_volume": 1100,
+    "difficulty": 59,
+    "cpc": 0.08,
+    "competition": 0.01,
+    "intent": "informational",
+    "serp_features": [
+      "video",
+      "images",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/tools/braces-filter",
+    "ranking_position": 12,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "sora free",
+    "search_volume": 660,
+    "difficulty": 41,
+    "cpc": 0.66,
+    "competition": 0.6,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/tools/sora",
+    "ranking_position": 10,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "soku",
+    "search_volume": 1600,
+    "difficulty": 63,
+    "cpc": 0.41,
+    "competition": 0.03,
+    "intent": "local",
+    "serp_features": [
+      "reviews",
+      "sitelinks",
+      "video",
+      "people_also_ask",
+      "images",
+      "gmb",
+      "sge",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/",
+    "ranking_position": 5,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "how will you look with braces",
+    "search_volume": 590,
+    "difficulty": 6,
+    "cpc": 1.22,
+    "competition": 0.07,
+    "intent": "informational",
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "images",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/tools/braces-filter",
+    "ranking_position": 30,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "facebook ads mcp",
+    "search_volume": 260,
+    "difficulty": 17,
+    "cpc": 3.89,
+    "competition": 0.38,
+    "intent": "informational",
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/blog/meta-official-mcp-ai-ad-teams",
+    "ranking_position": 29,
+    "our_position": null,
+    "source": "se_ranking"
+  },
+  {
+    "keyword": "see how braces look on you",
+    "search_volume": 30,
+    "difficulty": 6,
+    "cpc": 0.0,
+    "competition": 0.08,
+    "intent": "informational",
+    "serp_features": [
+      "video",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "ranking_domain": "soku.ai",
+    "ranking_url": "https://soku.ai/tools/braces-filter",
+    "ranking_position": 18,
+    "our_position": null,
+    "source": "se_ranking"
+  }
+]

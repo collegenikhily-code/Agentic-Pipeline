@@ -1,0 +1,104 @@
+{
+  "opportunity_id": 1,
+  "sources": [
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Facebook Business Manager is a free Meta platform that centralizes control over Facebook and Instagram business assets\u2014including Pages, ad accounts, pixels, and catalogs\u2014without sharing personal login credentials. Its primary purpose is to provide a secure workspace where teams can assign role-based permissions, manage advertising campaigns, and schedule content across multiple accounts. For content creators, it offers practical benefits like granting team access to publish or analyze content wi",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_1",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Go to business.facebook.com and click \"Create Account,\" entering your business name, your name, and a business email to register. Once verified, claim your Facebook Page and Instagram account by entering their URLs, then assign roles like Admin or Editor to team members under Business Settings. Ensure your personal Facebook profile is linked but keep administrative permissions controlled, and configure data sharing settings to manage who sees analytics and ad account details.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_2",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Facebook Business Manager is a centralized dashboard that lets you manage ad accounts, Facebook and Instagram Pages, product catalogs, and pixels in one place. It includes team management tools for assigning roles and permissions, ad creation and reporting features, and commerce tools like catalog management and checkout integration. For content creators, it\u2019s useful for tracking analytics, running ads, and collaborating with team members or agencies while keeping brand assets organized.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_3",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Facebook Business Manager is a centralized dashboard for managing Pages, ad accounts, pixels, and team permissions, while a standard Facebook Page is the public-facing profile where you post content and interact with followers. It lets creators grant team members access to specific assets without sharing personal passwords and provides advanced tools for advertising, analytics, and inventory management. Think of the Page as the storefront and Business Manager as the back-office system that contr",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_4",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Enable two-factor authentication for all Business Manager accounts and assign role-based permissions so users only access the tools and data they need. Require dedicated business email addresses for team members, regularly audit active users and third-party app integrations, and monitor login alerts for suspicious activity. Never share login credentials and revoke access immediately when employees leave the organization.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_5",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "data_hash": "b71b8923cfe29719",
+  "provider": "deep_research_agent",
+  "source_count": 5,
+  "created_at": "2026-01-01T00:00:00Z",
+  "primary_keyword": "facebook business manager",
+  "intent": "informational",
+  "content_gaps": [],
+  "differentiation_strategy": "Establish topical expertise through comprehensive coverage, data points, and expert citations",
+  "page_type_recommendation": "role-guide",
+  "aeo_geo_requirements": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "schema_markup_needs": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "competing_analysis": [
+    {
+      "page": "Meta Business Help Center"
+    },
+    {
+      "page": "HubSpot Facebook Business Manager Guide"
+    },
+    {
+      "page": "Hootsuite Business Manager overview"
+    }
+  ],
+  "questions_answered": [
+    "What is Facebook Business Manager and what is its primary purpose?",
+    "How do you set up and configure a Facebook Business Manager account step-by-step?",
+    "What are the key features and tools available within Facebook Business Manager?",
+    "How does Facebook Business Manager differ from a standard Facebook Page?",
+    "What are the security and privacy best practices for managing Facebook Business Manager?"
+  ],
+  "audience_profile": "Small business owners, marketers, social media managers, and agency professionals seeking to understand and optimize their ad and page management.",
+  "completion_status": "complete"
+}

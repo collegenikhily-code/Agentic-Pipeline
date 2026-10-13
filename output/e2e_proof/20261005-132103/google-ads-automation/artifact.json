@@ -1,0 +1,35 @@
+{
+  "artifact_version": "1.0",
+  "generated_at": "2026-10-05T07:52:03.292734+00:00",
+  "keyword": "google ads automation",
+  "intent": "informational",
+  "slug": "google-ads-automation",
+  "template": "use-case-capability",
+  "seo": {
+    "meta_title": "Google Ads Automation - Programmatic SEO Guide",
+    "meta_description": "Explore google ads automation capabilities, use cases, and workflows. Expert guide from Programmatic SEO Guide.",
+    "slug": "google-ads-automation",
+    "schema_type": "UseCaseCapabilityArticle"
+  },
+  "research": {
+    "primary_keyword": "google ads automation",
+    "page_type": "role-guide",
+    "sources_count": 7,
+    "questions_answered": [
+      "What are the core types of Google Ads automation features and how do they function?",
+      "What are the risks and common failure scenarios when relying on Google Ads automation?",
+      "How do automated bidding strategies compare to manual management in terms of ROI?",
+      "What step-by-step process should beginners follow to implement automated rules safely?"
+    ],
+    "differentiation": "Establish topical expertise through comprehensive coverage, data points, and expert citations",
+    "audience": "Digital marketers, small business owners, and PPC managers seeking foundational knowledge about Google Ads automation to improve campaign efficiency without deep technical expertise."
+  },
+  "validation": {
+    "decision": "PASS",
+    "score": 75,
+    "grade": "B",
+    "blocked": false,
+    "warnings": []
+  },
+  "status": "publish-ready"
+}

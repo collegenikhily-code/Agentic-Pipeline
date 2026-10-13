@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seo-aeo-geo-pipeline"
+version = "0.1.0"
+description = "SEO + AEO + GEO programmatic content production pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+authors = [{ name = "Team" }]
+dependencies = [
+    "psycopg2-binary>=2.9.9",
+    "pyyaml>=6.0",
+    "pydantic>=2.0",
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "nltk>=3.9",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+llm = [
+    "litellm>=1.51"
+]
+mcp = [
+    "mcp>=1.0"
+]
+
+[project.scripts]
+seo-orchestrator = "seo_aeo_geo_pipeline.orchestrator:main"
+statemachine = "seo_aeo_geo_pipeline.statemachine:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["seo_aeo_geo_pipeline*"]

@@ -1,0 +1,15 @@
+-- Down migration: drop all tables in reverse order
+DROP TABLE IF EXISTS measurements CASCADE;
+DROP TABLE IF EXISTS publication_decisions CASCADE;
+DROP TABLE IF EXISTS validation_findings CASCADE;
+DROP TABLE IF EXISTS validation_runs CASCADE;
+DROP TABLE IF EXISTS page_versions CASCADE;
+DROP TABLE IF EXISTS pages CASCADE;
+DROP TABLE IF EXISTS page_specs CASCADE;
+DROP TABLE IF EXISTS evidence CASCADE;
+DROP TABLE IF EXISTS claims CASCADE;
+DROP TABLE IF EXISTS product_truth CASCADE;
+DROP TABLE IF EXISTS sources CASCADE;
+DROP TABLE IF EXISTS research_snapshots CASCADE;
+DROP TABLE IF EXISTS opportunities CASCADE;
+DROP TABLE IF EXISTS pipeline_runs CASCADE;

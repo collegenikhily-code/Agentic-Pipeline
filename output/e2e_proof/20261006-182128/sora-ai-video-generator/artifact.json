@@ -1,0 +1,114 @@
+{
+  "artifact_version": "1.0",
+  "generated_at": "2026-10-06T12:57:38.012286+00:00",
+  "keyword": "sora ai video generator",
+  "intent": "informational",
+  "slug": "sora-ai-video-generator",
+  "template": "reference-entry",
+  "seo": {
+    "meta_title": "Sora Ai Video Generator? - Programmatic SEO Guide",
+    "meta_description": "Learn what sora ai video generator is, how it differs from similar terms, and why it matters. Expert reference from Programmatic SEO Guide.",
+    "slug": "sora-ai-video-generator",
+    "schema_type": "ReferenceEntryArticle"
+  },
+  "research": {
+    "primary_keyword": "sora ai video generator",
+    "page_type": "role-guide",
+    "sources_count": 4,
+    "questions_answered": [
+      "What is Sora AI and how does its video generation technology work?",
+      "What are the key features, video quality, and resolution capabilities of Sora AI?",
+      "What are the limitations, safety measures, and ethical concerns with Sora AI video generation?",
+      "What are practical use cases and applications for Sora AI in marketing, film, and social media?"
+    ],
+    "differentiation": "Establish topical expertise through comprehensive coverage, data points, and expert citations",
+    "audience": "Content creators, marketers, developers, and tech enthusiasts seeking to understand AI video generation capabilities and applications",
+    "completion_status": "complete"
+  },
+  "validation": {
+    "decision": "REPAIR",
+    "score": 100,
+    "grade": "A",
+    "blocked": false,
+    "warnings": [
+      "No internal links found in rendered HTML."
+    ]
+  },
+  "gate3_pseo": {
+    "blocked": false,
+    "guardrail_checks": 13,
+    "citability_score": 100
+  },
+  "gate4_aeo_geo": {
+    "citability_score": 100,
+    "answer_first_structure": true,
+    "entities_clear": true,
+    "structured_data_valid": true,
+    "egeo_critical_issues": null
+  },
+  "technical_seo": {
+    "decision": "REPAIR",
+    "blocked": false,
+    "checks": {
+      "http_status": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "No HTTP status in artifact (pre-publish render)."
+      },
+      "canonical": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "Canonical present: https://example.com/sora-ai-video-generator"
+      },
+      "noindex_robots": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "No noindex/robots blocking detected."
+      },
+      "title": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "Title present (49 chars)."
+      },
+      "meta_description": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "Meta description present (139 chars)."
+      },
+      "h1": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "H1 present: Sora AI Video Generator"
+      },
+      "content_substance": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "Substantive content: 870 words."
+      },
+      "internal_links": {
+        "passed": false,
+        "severity": "advisory",
+        "message": "No internal links found in rendered HTML."
+      },
+      "structured_data": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "JSON-LD present: 1 typed block(s), types=['FAQPage']"
+      },
+      "indexability_readiness": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "Indexability ready: title + meta description present, no noindex."
+      },
+      "soft_404": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "No soft-404/error render detected."
+      }
+    },
+    "warnings": [
+      "No internal links found in rendered HTML."
+    ]
+  },
+  "status": "REPAIR"
+}

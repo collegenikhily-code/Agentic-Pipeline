@@ -1,0 +1,110 @@
+{
+  "opportunity_id": 1,
+  "sources": [
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Go to business.facebook.com and sign in with a Facebook account that has admin access to the business page. You need a Meta Business Account, and any Instagram account you manage must be a professional account linked to that Facebook page. Once logged in, you can schedule posts, respond to messages, and view analytics for both platforms from one dashboard.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_1",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Clear your browser cache and cookies or try logging in via incognito mode. Check Meta's Service Status page to confirm there isn't a platform-wide outage, and verify your Facebook/Instagram credentials are correct. If issues persist, try a different browser or device, or reset your password through the Meta Business Help Center.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_2",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "Meta Business Suite login requires a Facebook personal account linked to a Business Manager or Page, granting access to business tools like ad accounts, analytics, and cross-platform content scheduling for Facebook and Instagram. Unlike regular Facebook login, it demands additional verification steps, business identity confirmation, and permissions tied to commercial assets rather than personal profiles. Content creators must connect an Instagram Business account and enable two-factor authentica",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_3",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "To access Meta Business Suite on desktop, you need a web browser, a Meta account, and admin access to a Facebook Page or Instagram Professional account via business.facebook.com. On mobile, you must download the Meta Business Suite app (iOS or Android) and log in with the same credentials and page permissions. Both platforms require your Instagram account to be converted to a Professional (Business or Creator) account and linked to a Facebook Page for full functionality.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_4",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    },
+    {
+      "source_url": "llm://openrouter/inclusionai/ling-3.0-flash-sante:free",
+      "source_type": "llm_research",
+      "excerpt": "To set up two-factor authentication for Meta Business Suite, go to your Meta Business Suite settings, select \"Security and Login,\" and choose \"Two-Factor Authentication.\" You can then enable it using an authenticator app, SMS text message, or security key for added protection. This helps secure your business accounts and content publishing tools against unauthorized access.",
+      "confidence": 0.7,
+      "collector": "deep_research_agent",
+      "metadata": {
+        "question_id": "sq_5",
+        "model": "openrouter/inclusionai/ling-3.0-flash-sante:free"
+      },
+      "normalized_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "data_hash": "b5c8ffb5b018fb25",
+  "provider": "deep_research_agent",
+  "source_count": 5,
+  "created_at": "2026-01-01T00:00:00Z",
+  "primary_keyword": "meta business suite login",
+  "intent": "informational",
+  "content_gaps": [],
+  "differentiation_strategy": "Establish topical expertise through comprehensive coverage, data points, and expert citations",
+  "page_type_recommendation": "role-guide",
+  "aeo_geo_requirements": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "schema_markup_needs": [
+    "Include FAQ schema markup",
+    "Use semantic HTML headings (h1, h2, h3)",
+    "Add internal links to related entities"
+  ],
+  "competing_analysis": [
+    {
+      "page": "Meta official Business Suite Help Center"
+    },
+    {
+      "page": "Social Media Examiner login tutorials"
+    },
+    {
+      "page": "YouTube channel walkthroughs"
+    },
+    {
+      "page": "Reddit community troubleshooting threads"
+    },
+    {
+      "page": "LinkedIn Learning business management courses"
+    }
+  ],
+  "questions_answered": [
+    "How do I access Meta Business Suite and what are the exact login steps?",
+    "What should I do if I encounter errors during Meta Business Suite login?",
+    "How does Meta Business Suite login differ from regular Facebook login in terms of permissions and setup?",
+    "What are the prerequisites for accessing Meta Business Suite on mobile vs desktop?",
+    "How do I set up two-factor authentication for Meta Business Suite login?"
+  ],
+  "audience_profile": "Small business owners, marketing professionals, and social media managers who need to manage Facebook and Instagram business accounts",
+  "completion_status": "complete"
+}

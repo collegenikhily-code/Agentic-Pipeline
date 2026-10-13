@@ -1,0 +1,259 @@
+[
+  {
+    "block_type": null,
+    "block_position": 15,
+    "keyword": "linkedin ads mcp",
+    "position": 15,
+    "prev_pos": 15,
+    "volume": 50,
+    "cpc": 48.98,
+    "competition": 0.28,
+    "url": "https://paidsync.ai/blog/best-mcp-for-linkedin-ads",
+    "difficulty": 7,
+    "total_sites": null,
+    "traffic": 1,
+    "traffic_percent": 100,
+    "price": 48.98,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 18,
+    "keyword": "diagnostics ppc consultant",
+    "position": 18,
+    "prev_pos": 18,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/blog/solo-ppc-consultant-ai-tools",
+    "difficulty": 19,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "local_pack",
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "L",
+      "C"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 33,
+    "keyword": "claude connector linkedin ads",
+    "position": 33,
+    "prev_pos": 33,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/blog/connect-linkedin-ads-to-claude",
+    "difficulty": 6,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 65,
+    "keyword": "linkedin ads claude integration",
+    "position": 65,
+    "prev_pos": 65,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/blog/connect-linkedin-ads-to-claude",
+    "difficulty": 7,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 49,
+    "keyword": "linkedin ads mcp setup",
+    "position": 49,
+    "prev_pos": 49,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/linkedin-ads-mcp",
+    "difficulty": 9,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "bads",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 72,
+    "keyword": "linkedin ads mcp setup",
+    "position": 72,
+    "prev_pos": 72,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/blog/official-meta-ads-mcp-guide",
+    "difficulty": 9,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "bads",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 90,
+    "keyword": "mcp server for advertisers / for paid media",
+    "position": 90,
+    "prev_pos": 90,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/blog/agentic-advertising-receipts",
+    "difficulty": 18,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "bads",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 19,
+    "keyword": "mcp server for advertisers / for paid media",
+    "position": 19,
+    "prev_pos": 19,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/blog/best-mcp-for-ads-management",
+    "difficulty": 18,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "bads",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 13,
+    "keyword": "linkedin campaign manager claude",
+    "position": 13,
+    "prev_pos": 13,
+    "volume": 0,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://paidsync.ai/blog/connect-linkedin-ads-to-claude",
+    "difficulty": 6,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "places_sites_products"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 10,
+    "keyword": "linkedin ads mcp server",
+    "position": 10,
+    "prev_pos": 10,
+    "volume": 10,
+    "cpc": 0,
+    "competition": 0.16,
+    "url": "https://paidsync.ai/linkedin-ads-mcp",
+    "difficulty": 8,
+    "total_sites": null,
+    "traffic": 0,
+    "traffic_percent": 0,
+    "price": 0,
+    "serp_features": [
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  }
+]

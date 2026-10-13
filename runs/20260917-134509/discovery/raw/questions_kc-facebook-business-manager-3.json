@@ -1,0 +1,186 @@
+{
+  "total": 358,
+  "keywords": [
+    {
+      "keyword": "how to create facebook business manager",
+      "cpc": 18.6,
+      "difficulty": 32,
+      "volume": 390,
+      "competition": 0.18,
+      "serp_features": [
+        "video",
+        "people_also_ask",
+        "tads",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to create a business manager in facebook",
+      "cpc": 18.6,
+      "difficulty": 20,
+      "volume": 390,
+      "competition": 0.18,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to create a business manager on facebook",
+      "cpc": 18.6,
+      "difficulty": 20,
+      "volume": 390,
+      "competition": 0.18,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "mads"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to create a facebook business manager account",
+      "cpc": 5.74,
+      "difficulty": 26,
+      "volume": 110,
+      "competition": 0.38,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how do i create a business manager account on facebook",
+      "cpc": 5.74,
+      "difficulty": 19,
+      "volume": 110,
+      "competition": 0.38,
+      "serp_features": [
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "places_sites_products"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to create business manager account in facebook",
+      "cpc": 5.74,
+      "difficulty": 26,
+      "volume": 110,
+      "competition": 0.38,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches",
+        "mads"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to create a business manager account in facebook",
+      "cpc": 5.74,
+      "difficulty": 26,
+      "volume": 110,
+      "competition": 0.38,
+      "serp_features": [
+        "reviews",
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how do you manage a facebook business page",
+      "cpc": 0,
+      "difficulty": 22,
+      "volume": 70,
+      "competition": 0.05,
+      "serp_features": [
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to manage a facebook business page",
+      "cpc": 0,
+      "difficulty": 29,
+      "volume": 70,
+      "competition": 0.05,
+      "serp_features": [
+        "video",
+        "people_also_ask",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    },
+    {
+      "keyword": "how to manage a business facebook page",
+      "cpc": 0,
+      "difficulty": 31,
+      "volume": 70,
+      "competition": 0.05,
+      "serp_features": [
+        "reviews",
+        "video",
+        "sge",
+        "related_searches"
+      ],
+      "intents": [
+        "I"
+      ],
+      "history_trend": null
+    }
+  ]
+}

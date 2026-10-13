@@ -1,0 +1,978 @@
+[
+  {
+    "cluster_id": "kc-facebook-business-manager-3aa950f1",
+    "primary_keyword": "facebook business manager",
+    "keywords": [
+      "facebook business manager"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 18100,
+    "avg_difficulty": 96.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/facebook-busines-manager"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sitelinks",
+      "tads",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-meta-business-suite-login-2ae80cb9",
+    "primary_keyword": "meta business suite login",
+    "keywords": [
+      "meta business suite login",
+      "business suite login"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 11280,
+    "avg_difficulty": 74.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/how-to-access-meta-business-suite"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sitelinks",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-sora-ai-video-generator-5eeee998",
+    "primary_keyword": "sora ai video generator",
+    "keywords": [
+      "sora free",
+      "sora ai video generator"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 10560,
+    "avg_difficulty": 48.5,
+    "competitor_pages": [
+      "https://soku.ai/tools/sora"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-google-ads-certification-e6ad4b30",
+    "primary_keyword": "google ads certification",
+    "keywords": [
+      "google ads certification"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 6600,
+    "avg_difficulty": 71.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/google-ads-certification-cost-worth-it-2026"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-smartly-a436a528",
+    "primary_keyword": "smartly",
+    "keywords": [
+      "smartly"
+    ],
+    "dominant_intent": "local",
+    "total_search_volume": 5400,
+    "avg_difficulty": 67.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/smartly-io-review-2026-creative-automation"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "gmb",
+      "images",
+      "related_searches",
+      "reviews",
+      "sitelinks",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-chatgpt-ads-a52ea3d6",
+    "primary_keyword": "chatgpt ads",
+    "keywords": [
+      "chatgpt ads"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 4400,
+    "avg_difficulty": 73.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/chat-gpt-ads"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-soku-9d13a465",
+    "primary_keyword": "soku",
+    "keywords": [
+      "soku"
+    ],
+    "dominant_intent": "local",
+    "total_search_volume": 3200,
+    "avg_difficulty": 63.0,
+    "competitor_pages": [
+      "https://soku.ai/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "gmb",
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "sitelinks",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-ai-blend-tool-fc022958",
+    "primary_keyword": "ai blend tool",
+    "keywords": [
+      "blend ai",
+      "ai blend tool",
+      "blend app",
+      "app blended",
+      "blend tool ai",
+      "blend australia"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 3110,
+    "avg_difficulty": 16.857142857142858,
+    "competitor_pages": [
+      "https://blend-ai.com/channels/meta-ads",
+      "https://blend-ai.com/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "find_results_on",
+      "image_in_block",
+      "images",
+      "people_also_ask",
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-instagram-meta-dd454d04",
+    "primary_keyword": "instagram meta",
+    "keywords": [
+      "instagram meta ai",
+      "meta instagram",
+      "link post ad",
+      "meta moment maker",
+      "instagram meta"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 2850,
+    "avg_difficulty": 31.0,
+    "competitor_pages": [
+      "https://www.markifact.com/",
+      "https://www.adspirer.com/blog"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-meta-ads-mcp-f7d59830",
+    "primary_keyword": "meta ads mcp",
+    "keywords": [
+      "facebook ads mcp",
+      "meta ads mcp"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 2810,
+    "avg_difficulty": 19.142857142857142,
+    "competitor_pages": [
+      "https://blend-ai.com/mcp/platforms/meta-ads-mcp",
+      "https://adkit.so/features/ads-mcp/meta",
+      "https://www.markifact.com/meta-ads-mcp",
+      "https://soku.ai/blog/meta-official-mcp-ai-ad-teams",
+      "https://pipeboard.co/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "bads",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-google-ppc-63d7a524",
+    "primary_keyword": "google ppc",
+    "keywords": [
+      "google ppc"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 2400,
+    "avg_difficulty": 75.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/google-ads-ppc"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-ads-as-bea83d93",
+    "primary_keyword": "ads as",
+    "keywords": [
+      "ads as"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 1900,
+    "avg_difficulty": 68.0,
+    "competitor_pages": [
+      "https://adkit.so/resources/ads-examples/saas-ad-examples"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-agent-advertising-082a5512",
+    "primary_keyword": "agent advertising",
+    "keywords": [
+      "agent advertising"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 1800,
+    "avg_difficulty": 68.0,
+    "competitor_pages": [
+      "https://adkit.so/resources/ai-ad-agents"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "knowledge_graph",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-braces-filter-e0e27f4e",
+    "primary_keyword": "braces filter",
+    "keywords": [
+      "how will you look with braces",
+      "braces filter",
+      "see how braces look on you"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 1720,
+    "avg_difficulty": 23.666666666666668,
+    "competitor_pages": [
+      "https://soku.ai/tools/braces-filter"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-muze-6f8c84a4",
+    "primary_keyword": "muze",
+    "keywords": [
+      "mozze",
+      "muset",
+      "muze",
+      "muzei"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 1290,
+    "avg_difficulty": 10.75,
+    "competitor_pages": [
+      "https://www.muzecmo.com/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "image_in_block",
+      "images",
+      "knowledge_graph",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-facebook-video-size-6c3136b7",
+    "primary_keyword": "facebook video size",
+    "keywords": [
+      "facebook video size",
+      "facebook video specs",
+      "video dimensions for facebook ads",
+      "facebook video ads specs",
+      "fb video ad specs",
+      "facebook video ad specs"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 1130,
+    "avg_difficulty": 33.333333333333336,
+    "competitor_pages": [
+      "https://pipeboard.co/blog/video-ads-facebook-specs"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "digital_complaints",
+      "mads",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "sitelinks",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-negative-keyword-6a7c386b",
+    "primary_keyword": "negative keyword",
+    "keywords": [
+      "what are negative keywords",
+      "negative keywords",
+      "negative keyword"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 1040,
+    "avg_difficulty": 29.0,
+    "competitor_pages": [
+      "https://www.muzecmo.com/glossary/negative-keywords/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-ai-swap-c8147044",
+    "primary_keyword": "ai swap",
+    "keywords": [
+      "ai swap"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 1000,
+    "avg_difficulty": 47.0,
+    "competitor_pages": [
+      "https://soku.ai/tools/ai-face-swap"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-marketing-agent-97a67a1d",
+    "primary_keyword": "marketing agent",
+    "keywords": [
+      "marketing agent"
+    ],
+    "dominant_intent": "local",
+    "total_search_volume": 990,
+    "avg_difficulty": 31.0,
+    "competitor_pages": [
+      "https://www.markifact.com/agent"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "bads",
+      "local_pack",
+      "people_also_ask",
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-video-editing-ai-114ac26a",
+    "primary_keyword": "video editing ai",
+    "keywords": [
+      "video editing ai"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 880,
+    "avg_difficulty": 48.0,
+    "competitor_pages": [
+      "https://soku.ai/tools/ai-video-editor"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "twitter",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-ad-mockup-facebook-92073ef8",
+    "primary_keyword": "ad mockup facebook",
+    "keywords": [
+      "ad mockup facebook",
+      "mockup facebook ad"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 780,
+    "avg_difficulty": 11.0,
+    "competitor_pages": [
+      "https://adkit.so/tools/ad-preview/facebook"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "bads",
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-cpa-definition-marketing-a1c7f970",
+    "primary_keyword": "cpa definition marketing",
+    "keywords": [
+      "cpa definition marketing",
+      "cpa ads",
+      "what is cpa advertising"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 750,
+    "avg_difficulty": 34.333333333333336,
+    "competitor_pages": [
+      "https://www.muzecmo.com/glossary/cpa/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-instagram-reel-safe-zone-template-982f428b",
+    "primary_keyword": "instagram reel safe zone template",
+    "keywords": [
+      "instagram reel safe zone template"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 590,
+    "avg_difficulty": 16.0,
+    "competitor_pages": [
+      "https://adkit.so/tools/safe-zones/instagram"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-facebook-engagement-rate-calculator-6d1f9ff9",
+    "primary_keyword": "facebook engagement rate calculator",
+    "keywords": [
+      "engagement calculator",
+      "facebook engagement rate calculator"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 520,
+    "avg_difficulty": 19.0,
+    "competitor_pages": [
+      "https://adkit.so/tools/engagement-rate-calculator"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "digital_complaints",
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-linkedin-ad-examples-0ef012a5",
+    "primary_keyword": "linkedin ad examples",
+    "keywords": [
+      "linkedin ad examples"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 480,
+    "avg_difficulty": 28.0,
+    "competitor_pages": [
+      "https://adkit.so/tools/ad-library/linkedin"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-google-ads-type-48827296",
+    "primary_keyword": "google ads type",
+    "keywords": [
+      "google ads type"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 480,
+    "avg_difficulty": 43.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/google-ads-campaign-types-explained-beginners"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-facebook-ad-cost-calculator-21803465",
+    "primary_keyword": "facebook ad cost calculator",
+    "keywords": [
+      "facebook ad cost calculator"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 260,
+    "avg_difficulty": 22.0,
+    "competitor_pages": [
+      "https://pipeboard.co/blog/facebook-advertising-cost-calculator"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-klaviyo-mcp-b07fd067",
+    "primary_keyword": "klaviyo mcp",
+    "keywords": [
+      "klaviyo mcp"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 260,
+    "avg_difficulty": 16.0,
+    "competitor_pages": [
+      "https://www.markifact.com/klaviyo-mcp"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews"
+    ]
+  },
+  {
+    "cluster_id": "kc-google-ads-automation-7be17e14",
+    "primary_keyword": "google ads automation",
+    "keywords": [
+      "google ads automation",
+      "google ads automation tools",
+      "google adwords automation",
+      "google ads automation tool"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 260,
+    "avg_difficulty": 14.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/top-ai-tools-google-ads-management-2026",
+      "https://www.adspirer.com/blog/google-ads-automation",
+      "https://www.adspirer.com/docs/guides/google-ads-automation",
+      "https://www.adspirer.com/blog/adwords-automate-tool"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "bads",
+      "people_also_ask",
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-facebook-test-bfd0cabb",
+    "primary_keyword": "facebook test",
+    "keywords": [
+      "facebook test"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 210,
+    "avg_difficulty": 15.0,
+    "competitor_pages": [
+      "https://pipeboard.co/blog/facebook-ads-conversion-tracking"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-facebook-advertising-automation-5515acc4",
+    "primary_keyword": "facebook advertising automation",
+    "keywords": [
+      "facebook advertising automation"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 170,
+    "avg_difficulty": 7.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog/facebook-advertising-automation"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-bf-deal-c2500ca7",
+    "primary_keyword": "bf deal",
+    "keywords": [
+      "bf deal"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 140,
+    "avg_difficulty": 26.0,
+    "competitor_pages": [
+      "https://blend-ai.com/post/20-proven-black-friday-deal-ideas-to-boost-sales"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-ppc-reporting-tool-64dc9d3f",
+    "primary_keyword": "ppc reporting tool",
+    "keywords": [
+      "ppc reporting tool"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 140,
+    "avg_difficulty": 11.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog/ppc-reporting-tools"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-ads-automation-30ac3216",
+    "primary_keyword": "ads automation",
+    "keywords": [
+      "ads automation"
+    ],
+    "dominant_intent": "local",
+    "total_search_volume": 140,
+    "avg_difficulty": 6.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/blog/google-ads-automation"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "gmb",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-ai-ppc-agency-d4997c12",
+    "primary_keyword": "ai ppc agency",
+    "keywords": [
+      "ai ppc agency"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 110,
+    "avg_difficulty": 19.0,
+    "competitor_pages": [
+      "https://www.get-ryze.ai/blog/best-ppc-agencies-ai-powered-2026"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-adspire-c20d6d76",
+    "primary_keyword": "adspire",
+    "keywords": [
+      "adspire"
+    ],
+    "dominant_intent": "local",
+    "total_search_volume": 110,
+    "avg_difficulty": 9.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "gmb",
+      "images",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-pipe-board-a4f5837f",
+    "primary_keyword": "pipe board",
+    "keywords": [
+      "pipe board"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 70,
+    "avg_difficulty": 10.0,
+    "competitor_pages": [
+      "https://pipeboard.co/setup"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-adkit-dd97b6ca",
+    "primary_keyword": "adkit",
+    "keywords": [
+      "adkit"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 70,
+    "avg_difficulty": 9.0,
+    "competitor_pages": [
+      "https://adkit.so/"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "images",
+      "related_searches",
+      "reviews",
+      "sitelinks",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-linkedin-ads-mcp-f495a38b",
+    "primary_keyword": "linkedin ads mcp",
+    "keywords": [
+      "linkedin ads mcp setup",
+      "linkedin ads mcp server",
+      "linkedin ads mcp"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 60,
+    "avg_difficulty": 8.25,
+    "competitor_pages": [
+      "https://paidsync.ai/blog/best-mcp-for-linkedin-ads",
+      "https://paidsync.ai/blog/official-meta-ads-mcp-guide",
+      "https://paidsync.ai/linkedin-ads-mcp"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "bads",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-monthly-seo-report-pdf-3a007a1b",
+    "primary_keyword": "monthly seo report pdf",
+    "keywords": [
+      "monthly seo report pdf"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 50,
+    "avg_difficulty": 10.0,
+    "competitor_pages": [
+      "https://www.markifact.com/templates/monthly-seo-performance-slides"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "reviews",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-cursor-ads-b1bb22a8",
+    "primary_keyword": "cursor ads",
+    "keywords": [
+      "cursor ads"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 40,
+    "avg_difficulty": 13.0,
+    "competitor_pages": [
+      "https://www.adspirer.com/integrations/clients/cursor"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "related_searches",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-claude-connector-linkedin-ads-2ad3a068",
+    "primary_keyword": "claude connector linkedin ads",
+    "keywords": [
+      "linkedin campaign manager claude",
+      "claude connector linkedin ads",
+      "linkedin ads claude integration"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 0,
+    "avg_difficulty": 6.333333333333333,
+    "competitor_pages": [
+      "https://paidsync.ai/blog/connect-linkedin-ads-to-claude"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "people_also_ask",
+      "places_sites_products",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-mcp-server-for-advertisers-/-for-paid-me-db08d989",
+    "primary_keyword": "mcp server for advertisers / for paid media",
+    "keywords": [
+      "mcp server for advertisers / for paid media"
+    ],
+    "dominant_intent": "informational",
+    "total_search_volume": 0,
+    "avg_difficulty": 18.0,
+    "competitor_pages": [
+      "https://paidsync.ai/blog/best-mcp-for-ads-management",
+      "https://paidsync.ai/blog/agentic-advertising-receipts"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "bads",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  },
+  {
+    "cluster_id": "kc-diagnostics-ppc-consultant-2bbcd674",
+    "primary_keyword": "diagnostics ppc consultant",
+    "keywords": [
+      "diagnostics ppc consultant"
+    ],
+    "dominant_intent": "local",
+    "total_search_volume": 0,
+    "avg_difficulty": 19.0,
+    "competitor_pages": [
+      "https://paidsync.ai/blog/solo-ppc-consultant-ai-tools"
+    ],
+    "supporting_questions": [],
+    "serp_features": [
+      "local_pack",
+      "people_also_ask",
+      "related_searches",
+      "reviews",
+      "sge",
+      "video"
+    ]
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "block_type": null,
+    "block_position": 2,
+    "keyword": "blend ai",
+    "position": 2,
+    "prev_pos": 2,
+    "volume": 480,
+    "cpc": 3.43,
+    "competition": 0.14,
+    "url": "https://blend-ai.com/",
+    "difficulty": 24,
+    "total_sites": null,
+    "traffic": 35,
+    "traffic_percent": 43.75,
+    "price": 120.05,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 16,
+    "keyword": "meta ads mcp",
+    "position": 16,
+    "prev_pos": 16,
+    "volume": 590,
+    "cpc": 4.23,
+    "competition": 0.27,
+    "url": "https://blend-ai.com/mcp/platforms/meta-ads-mcp",
+    "difficulty": 22,
+    "total_sites": null,
+    "traffic": 8,
+    "traffic_percent": 10,
+    "price": 33.84,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "bads",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 22,
+    "keyword": "facebook ads mcp",
+    "position": 22,
+    "prev_pos": 22,
+    "volume": 260,
+    "cpc": 3.89,
+    "competition": 0.38,
+    "url": "https://blend-ai.com/mcp/platforms/meta-ads-mcp",
+    "difficulty": 17,
+    "total_sites": null,
+    "traffic": 7,
+    "traffic_percent": 8.75,
+    "price": 27.23,
+    "serp_features": [
+      "reviews",
+      "video",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 16,
+    "keyword": "ai blend tool",
+    "position": 16,
+    "prev_pos": 16,
+    "volume": 590,
+    "cpc": 1.09,
+    "competition": 0.02,
+    "url": "https://blend-ai.com/",
+    "difficulty": 11,
+    "total_sites": null,
+    "traffic": 4,
+    "traffic_percent": 5,
+    "price": 4.36,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "related_searches",
+      "places_sites_products"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 17,
+    "keyword": "blend tool ai",
+    "position": 16,
+    "prev_pos": 16,
+    "volume": 590,
+    "cpc": 1.09,
+    "competition": 0.02,
+    "url": "https://blend-ai.com/",
+    "difficulty": 12,
+    "total_sites": null,
+    "traffic": 3,
+    "traffic_percent": 3.75,
+    "price": 3.27,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "images",
+      "find_results_on",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 14,
+    "keyword": "blend app",
+    "position": 14,
+    "prev_pos": 14,
+    "volume": 480,
+    "cpc": 1.39,
+    "competition": 0.12,
+    "url": "https://blend-ai.com/",
+    "difficulty": 14,
+    "total_sites": null,
+    "traffic": 3,
+    "traffic_percent": 3.75,
+    "price": 4.17,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 15,
+    "keyword": "bf deal",
+    "position": 15,
+    "prev_pos": 15,
+    "volume": 140,
+    "cpc": 0,
+    "competition": 0.02,
+    "url": "https://blend-ai.com/post/20-proven-black-friday-deal-ideas-to-boost-sales",
+    "difficulty": 26,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 2.5,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "video",
+      "images",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 25,
+    "keyword": "app blended",
+    "position": 23,
+    "prev_pos": 23,
+    "volume": 480,
+    "cpc": 1.39,
+    "competition": 0.12,
+    "url": "https://blend-ai.com/",
+    "difficulty": 24,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 2.5,
+    "price": 2.78,
+    "serp_features": [
+      "reviews",
+      "video",
+      "people_also_ask",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 1,
+    "keyword": "blend australia",
+    "position": 1,
+    "prev_pos": 1,
+    "volume": 10,
+    "cpc": 0,
+    "competition": 0,
+    "url": "https://blend-ai.com/",
+    "difficulty": 9,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 2.5,
+    "price": 0,
+    "serp_features": [
+      "reviews",
+      "people_also_ask",
+      "images",
+      "related_searches",
+      "image_in_block"
+    ],
+    "intents": [
+      "I"
+    ]
+  },
+  {
+    "block_type": null,
+    "block_position": 28,
+    "keyword": "blend ai",
+    "position": 28,
+    "prev_pos": 28,
+    "volume": 480,
+    "cpc": 3.43,
+    "competition": 0.14,
+    "url": "https://blend-ai.com/channels/meta-ads",
+    "difficulty": 24,
+    "total_sites": null,
+    "traffic": 2,
+    "traffic_percent": 2.5,
+    "price": 6.86,
+    "serp_features": [
+      "reviews",
+      "video",
+      "sge",
+      "related_searches"
+    ],
+    "intents": [
+      "I"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+site:
+  name: "Programmatic SEO Guide"
+  slug: "pseo-guide"
+  domain: "example.com"
+  industry: "technology"
+
+generation:
+  model: "openrouter/inclusionai/ling-3.0-flash-sante"
+  max_tokens: 8192
+
+brand_voice: "Expert, authoritative, and practical. Write for technical decision-makers evaluating software and tools."

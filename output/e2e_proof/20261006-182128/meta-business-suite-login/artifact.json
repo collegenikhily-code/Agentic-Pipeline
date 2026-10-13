@@ -1,0 +1,115 @@
+{
+  "artifact_version": "1.0",
+  "generated_at": "2026-10-06T12:54:56.669197+00:00",
+  "keyword": "meta business suite login",
+  "intent": "informational",
+  "slug": "meta-business-suite-login",
+  "template": "reference-entry",
+  "seo": {
+    "meta_title": "Meta Business Suite Login? - Programmatic SEO Guide",
+    "meta_description": "Learn what meta business suite login is, how it differs from similar terms, and why it matters. Expert reference from Programmatic SEO Guide.",
+    "slug": "meta-business-suite-login",
+    "schema_type": "ReferenceEntryArticle"
+  },
+  "research": {
+    "primary_keyword": "meta business suite login",
+    "page_type": "role-guide",
+    "sources_count": 5,
+    "questions_answered": [
+      "How do I access Meta Business Suite and what are the exact login steps?",
+      "What should I do if I encounter errors during Meta Business Suite login?",
+      "How does Meta Business Suite login differ from regular Facebook login in terms of permissions and setup?",
+      "What are the prerequisites for accessing Meta Business Suite on mobile vs desktop?",
+      "How do I set up two-factor authentication for Meta Business Suite login?"
+    ],
+    "differentiation": "Establish topical expertise through comprehensive coverage, data points, and expert citations",
+    "audience": "Small business owners, marketing professionals, and social media managers who need to manage Facebook and Instagram business accounts",
+    "completion_status": "complete"
+  },
+  "validation": {
+    "decision": "REPAIR",
+    "score": 100,
+    "grade": "A",
+    "blocked": false,
+    "warnings": [
+      "No internal links found in rendered HTML."
+    ]
+  },
+  "gate3_pseo": {
+    "blocked": false,
+    "guardrail_checks": 13,
+    "citability_score": 100
+  },
+  "gate4_aeo_geo": {
+    "citability_score": 100,
+    "answer_first_structure": true,
+    "entities_clear": true,
+    "structured_data_valid": true,
+    "egeo_critical_issues": null
+  },
+  "technical_seo": {
+    "decision": "REPAIR",
+    "blocked": false,
+    "checks": {
+      "http_status": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "No HTTP status in artifact (pre-publish render)."
+      },
+      "canonical": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "Canonical present: https://example.com/meta-business-suite-login"
+      },
+      "noindex_robots": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "No noindex/robots blocking detected."
+      },
+      "title": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "Title present (51 chars)."
+      },
+      "meta_description": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "Meta description present (141 chars)."
+      },
+      "h1": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "H1 present: Meta Business Suite Login"
+      },
+      "content_substance": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "Substantive content: 1072 words."
+      },
+      "internal_links": {
+        "passed": false,
+        "severity": "advisory",
+        "message": "No internal links found in rendered HTML."
+      },
+      "structured_data": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "JSON-LD present: 1 typed block(s), types=['FAQPage']"
+      },
+      "indexability_readiness": {
+        "passed": true,
+        "severity": "advisory",
+        "message": "Indexability ready: title + meta description present, no noindex."
+      },
+      "soft_404": {
+        "passed": true,
+        "severity": "blocking",
+        "message": "No soft-404/error render detected."
+      }
+    },
+    "warnings": [
+      "No internal links found in rendered HTML."
+    ]
+  },
+  "status": "REPAIR"
+}
